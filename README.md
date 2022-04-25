@@ -22,7 +22,7 @@ b. You can enter any value on client_id and client_secret to do the calls; they 
 but given that the API is not managed on API Manager, there is no security mechanism in place yet.
 ```
 
-####OPTIONALLY... * Choose 1 item to perform along with the mandatory part.
+#OPTIONALLY... * Choose 1 item to perform along with the mandatory part.
 
 - Create a Terraform script to automatically generate all the required infrastructure for this Demo :heavy_check_mark:
 - Use a CI/CD pipeline that deploys the Inventory REST API developed by MuleSoft Solution Engineer, from Github’s source code to your EC2 instance on VPC1
