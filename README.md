@@ -6,7 +6,7 @@ Demonstration project to manage different DevOps Tools:
 [SOAP reference](http://tshirts.demos.mulesoft.com/?wsdl)
 - Use Anypoint Trial account
 - AWS account (Free) {VPCs, EC2 instances, RDS instances, security groups, routing tables, etc}
-#####--VPCs:
+--VPCs:
 1. Linux EC2 instance (+ Mule Runtime)
 2. MySQL RDS service || EC2 instance with MySQL installed. [Query](https://github.com/gonzalo-camino/fssm-inventory-api/blob/main/src/main/resources/db/script.sql)
 
